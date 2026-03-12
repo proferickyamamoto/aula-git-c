@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello Git no VS Code!\n");
+    printf("Hello Git 1CC!\n");
     printf("Aprendendo controle de versao!\n");
     return 0;
 }
